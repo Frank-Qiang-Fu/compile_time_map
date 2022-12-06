@@ -1,0 +1,4 @@
+class CTMap {
+public:
+    CTMap();
+};
