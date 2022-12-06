@@ -3,3 +3,7 @@
 CTMap::CTMap() {
     std::cout << "constructor called\n";
 }
+
+int CTMap::compute() {
+    return 0;
+}
