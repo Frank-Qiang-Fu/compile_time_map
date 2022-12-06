@@ -23,7 +23,7 @@ jobs:
     - name: Init Submodules
       run: git submodule init
 
-    -name: Update Submodules
+    - name: Update Submodules
       run: git submodule update --recursive
 
     - name: Configure CMake
